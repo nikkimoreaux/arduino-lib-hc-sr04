@@ -2,6 +2,8 @@
 
 HC-SR04 is an ultrasonic sensor that measures distances from 2 to 400cm.
 
+**forked to add a a timeout**
+
 ![HC-SR04](/hcsr04.jpg)
 
 This is a simple library for it!
